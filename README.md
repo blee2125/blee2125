@@ -2,7 +2,7 @@
 
 I’m interested in code, 🚲biking, 🛶outdoor activities, and trying new recipes🥑.
 
-🌱 I’m currently learning more about javascript.
+🌱 I’m currently learning more with JavaScript.
 
 Need to reach me? {📫email: blee2125@gmail.com}
 
