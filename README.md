@@ -2,7 +2,7 @@
 
 I’m interested in code, 🚲biking, 🛶outdoor activities, and trying new recipes🥑.
 
-🌱 I’m currently learning Go(aka Golang).
+🌱 I’m currently learning JavaScript and Express.js.
 
 Need to reach me? {📫email: blee2125@gmail.com}
 
