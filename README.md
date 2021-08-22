@@ -2,7 +2,7 @@
 
 I’m interested in code, 🚲biking, 🛶outdoor activities, and trying new recipes🥑.
 
-🌱 I’m currently learning JavaScript and Express.js.
+🌱 I’m currently learning/playing with the MERN stack(mongoDB, express.js, react, node.js).
 
 Need to reach me? {📫email: blee2125@gmail.com}
 
