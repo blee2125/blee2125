@@ -1,8 +1,9 @@
-👋 Hi, I’m @blee2125 (brandon lee)
 
-I’m interested in code, 🚲biking, 🛶outdoor activities, and trying new recipes🥑.
+My interests include writing code👨🏼‍💻, 🚲biking, 🛶outdoor activities, and trying new recipes🥑.
 
-🌱 I’m currently learning/playing with the MERN stack(mongoDB, express.js, react, node.js).
+I’m currently learning/playing with the MERN stack(mongoDB, express.js, react, node.js) to create a few apps.
+
+I have experience with the following: Ruby, Ruby on Rails, JavaScript, React, PostgreSQL, MongoDB
 
 Need to reach me? {📫email: blee2125@gmail.com}
 
